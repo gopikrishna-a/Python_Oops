@@ -36,3 +36,9 @@ Procedural paradigm vs Object Paradigm:
       this = MyCustomInc()
       this.increment()
       print(this)
+
+Three pillers of Oops:
+
+* Encapsulation
+* Inheritance
+* Polymorphism
