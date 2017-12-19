@@ -1,4 +1,4 @@
-# Python Object oriented Programming
+# Python Object Oriented Programming
 
 
 What is Oops:
