@@ -10,11 +10,10 @@ What is Oops:
 The Oops paradigm:
  * Organizes data into objects and functions into methods
  * Defines object specifications ( data and methods ) in classes
-Procedural paradigm vs Object Paradigm:
 
+Procedural paradigm vs Object Paradigm:
 * Procedural paradigm
 
-    
       def increment(val):
           return val+1
 
@@ -22,7 +21,6 @@ Procedural paradigm vs Object Paradigm:
       this = increment(this)
       this = increment(this)
       print(this)
-
 
 * Object Paradigm:
 
