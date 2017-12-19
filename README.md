@@ -50,7 +50,7 @@
 * Class  is a Python Code
 
 
-Ex:
+####Example:
 
       from collections import Counter
 
