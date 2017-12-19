@@ -15,13 +15,13 @@ Procedural paradigm vs Object Paradigm:
 * Procedural paradigm
 
     
-        def increment(val):
-            return val+1
+      def increment(val):
+          return val+1
 
-        this = 0
-        this = increment(this)
-        this = increment(this)
-        print(this)
+      this = 0
+      this = increment(this)
+      this = increment(this)
+      print(this)
 
 
 * Object Paradigm:
