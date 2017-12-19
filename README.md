@@ -46,13 +46,14 @@
 
 ### Modules Vs Classes
 
-   i.  Module is a file that containes python code
-   ii. Class  is a Python Code
+* Module is a file that containes python code
+* Class  is a Python Code
 
 
 Ex:
-from collections import Counter
 
-Here 
-collections --> Module
-Counter     --> Class
+      from collections import Counter
+
+      #Here 
+      #collections is a Module (Python file)
+      #Counter is Class (Python Code)
