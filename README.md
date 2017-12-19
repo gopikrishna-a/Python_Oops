@@ -1,7 +1,7 @@
 # Python Object oriented Programming
 
 
-What is Oops?
+What is Oops:
 
  * Oops was invented in 1960
  * Oops is a paradigm(pattern) for code organization and design
