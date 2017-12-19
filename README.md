@@ -1,17 +1,17 @@
 # Python Object Oriented Programming
 
 
-What is Oops:
+### What is Oops:
 
  * Oops was invented in 1960
  * Oops is a paradigm(pattern) for code organization and design
  * promotes collaboration, code extension and maintenance
 
-The Oops paradigm:
+### The Oops paradigm:
  * Organizes data into objects and functions into methods
  * Defines object specifications ( data and methods ) in classes
 
-Procedural paradigm vs Object Paradigm:
+### Procedural paradigm vs Object Paradigm:
 * Procedural paradigm
 
       def increment(val):
@@ -37,8 +37,22 @@ Procedural paradigm vs Object Paradigm:
       this.increment()
       print(this)
 
-Three pillers of Oops:
+### Three pillers of Oops:
 
 * Encapsulation
 * Inheritance
 * Polymorphism
+
+
+### Modules Vs Classes
+
+Module is a file that containes python code
+Class  is a Python Code
+
+
+Ex:
+from collections import Counter
+
+Here 
+collections --> Module
+Counter     --> Class
