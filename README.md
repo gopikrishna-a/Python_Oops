@@ -46,8 +46,8 @@
 
 ### Modules Vs Classes
 
-Module is a file that containes python code
-Class  is a Python Code
+      Module is a file that containes python code
+      Class  is a Python Code
 
 
 Ex:
