@@ -77,10 +77,11 @@ When you call a metod in an Instance the instance get passed as the first argume
       this = MyClass()
       this.my_method()
       print(this)
-      '''
+      
+      """
       Code Out Put:
       <__main__.MyClass object at 0x7ff7482b3b70>
       <__main__.MyClass object at 0x7ff7482b3b70>
-      '''
+      """
       
 NOTE: In the above code if we observe self hex code and this object hex code are same which tells us that instance get passed as the first argument to the method.
