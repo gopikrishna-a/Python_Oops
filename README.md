@@ -60,7 +60,7 @@
 
 
 ### Some Definations:
-* Class      --> Class is a blueprint for an Instance
-* Instance   --> Instance is a constructed objcet of class
-* Attribute  --> Attribute is object value: object.attribute
-* Method     --> Method is a callable attribute defined in the class
+* Class           --> Class is a blueprint for an Instance
+* Instance        --> Instance is a constructed objcet of class
+* Attribute       --> Attribute is object value: object.attribute
+* Method          --> Method is a callable attribute defined in the class
