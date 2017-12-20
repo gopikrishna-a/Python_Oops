@@ -65,3 +65,4 @@
 * Attribute: Attribute is object value: object.attribute
 * Method: Method is a callable attribute defined in the class
 * Object: Object is a unit of data (having one or more attributes) of a pirticular class or type with associated methods
+* Self: self is the object on which the method was called
