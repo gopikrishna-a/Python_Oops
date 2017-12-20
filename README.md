@@ -58,7 +58,6 @@
       #collections is a Module (Python file)
       #Counter is Class (Python Code)
 
-
 ### Some Definations:
 ##### 1. Class: Class is a blueprint for an Instance
 ##### 2. Instance: Instance is a constructed objcet of class
@@ -66,3 +65,21 @@
 ##### 4. Method: Method is a callable attribute defined in the class
 ##### 5. Object: Object is a unit of data (having one or more attributes) of a pirticular class or type with associated methods
 ##### 6. Self: self is the object on which the method was called
+
+### Explanation of self:
+Node: When you call a metod in an Instance the instance get passed as the first argument
+#### Example for self explanation:
+      class MyClass(object):
+          def my_method(self):
+              print(self)
+
+
+      this = MyClass()
+      this.my_method()
+      print(this)
+
+      Out Put:
+      <__main__.MyClass object at 0x7ff7482b3b70>
+      <__main__.MyClass object at 0x7ff7482b3b70>
+      
+NOTE: In the above code if we observe self hex code and this object hex code are same which tells us that instance get passed as the first argument to the method.
