@@ -67,19 +67,20 @@
 ##### 6. Self: self is the object on which the method was called
 
 ### Explanation of self:
-Node: When you call a metod in an Instance the instance get passed as the first argument
+When you call a metod in an Instance the instance get passed as the first argument.
+
 #### Example for self explanation:
       class MyClass(object):
           def my_method(self):
               print(self)
 
-
       this = MyClass()
       this.my_method()
       print(this)
-
-      Out Put:
+      '''
+      Code Out Put:
       <__main__.MyClass object at 0x7ff7482b3b70>
       <__main__.MyClass object at 0x7ff7482b3b70>
+      '''
       
 NOTE: In the above code if we observe self hex code and this object hex code are same which tells us that instance get passed as the first argument to the method.
