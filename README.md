@@ -60,9 +60,9 @@
 
 
 ### Some Definations:
-###### 1. Class: Class is a blueprint for an Instance
-###### 2. Instance: Instance is a constructed objcet of class
-###### 3. Attribute: Attribute is object value: object.attribute
-###### 4. Method: Method is a callable attribute defined in the class
-###### 5. Object: Object is a unit of data (having one or more attributes) of a pirticular class or type with associated methods
-###### 6. Self: self is the object on which the method was called
+##### 1. Class: Class is a blueprint for an Instance
+##### 2. Instance: Instance is a constructed objcet of class
+##### 3. Attribute: Attribute is object value: object.attribute
+##### 4. Method: Method is a callable attribute defined in the class
+##### 5. Object: Object is a unit of data (having one or more attributes) of a pirticular class or type with associated methods
+##### 6. Self: self is the object on which the method was called
