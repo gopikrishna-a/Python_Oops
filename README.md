@@ -5,14 +5,14 @@
 
  * Oops was invented in 1960
  * Oops is a paradigm(pattern) for code organization and design
- * promotes collaboration, code extension and maintenance
+ * Promotes collaboration, code extension and maintenance
 
 ### The Oops paradigm:
  * Organizes data into objects and functions into methods
  * Defines object specifications ( data and methods ) in classes
 
-### Procedural paradigm vs Object Paradigm:
-* Procedural paradigm
+### Procedural Paradigm vs Object Paradigm:
+* Procedural Paradigm
 
       def increment(val):
           return val+1
